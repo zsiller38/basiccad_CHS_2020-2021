@@ -23,6 +23,7 @@ Our second Onshape assignment (the mount) was a countinuation of the first. The 
 https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d0d5177b4e5b4fdd/e/b25488f87ba4cc5898da9707
 
 ### Image
+<img src="Images/Mount.png" alt="Mount" width="200" height="200">
 
 ### Reflection
 The mount was really good for me because it was not that complicated and allowed me to work on the skills I learned with the base. I learned how to create linear patterns on a sketch not just and extrude. At this point I feel like I have mastered the first steps and ready to move on.
@@ -36,6 +37,7 @@ The fork is a more complicated piece that connects the wheel to the base and the
 https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d0d5177b4e5b4fdd/e/900e12c49117069e34818e49
 
 ### Image
+<img src="Images/Fork.png" alt="Fork" width="200" height="200">
 
 ### Reflection
 The fork was the most interesting part so far. It was much more complicated than our first two parts, but I feel like I have really improved my speed at which I use Onshape. The videos Doctor Shields makes are really easy to follow and make understanding Onshape not two difficult. A few skills I learned were how to use filets chamfers and mirrors. Filets are my favorite they greatly increase the number of cool shapes you can make.
@@ -44,6 +46,8 @@ The fork was the most interesting part so far. It was much more complicated than
 ### Description
 ### Evidence
 ### Image
+<img src="Images/Tire.png" alt="Tire" width="200" height="200">
+
 ### Reflection
 ## Wheel
 ### Description
