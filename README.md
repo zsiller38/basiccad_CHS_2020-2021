@@ -1,5 +1,6 @@
-# basiccad CHS 2020-2021
-## Project one castor
+# Basiccad CHS 2020-2021
+## Description
+My first basic cad assignment was making a castor. This was the first time I had ever done anything with CAD, so it was all new to me. 
 ### Base and Mount
 #### Image
 ![BaseMount_castor_CHS](Images/BaseMount_castor_CHS.png)
