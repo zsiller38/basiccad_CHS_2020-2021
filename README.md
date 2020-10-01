@@ -43,12 +43,19 @@ https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d
 The fork was the most interesting part so far. It was much more complicated than our first two parts, but I feel like I have really improved my speed at which I use Onshape. The videos Doctor Shields makes are really easy to follow and make understanding Onshape not two difficult. A few skills I learned were how to use filets chamfers and mirrors. Filets are my favorite they greatly increase the number of cool shapes you can make.
 
 ## Tire
-### Description
+
+### Description 
+Our next onshape assingnment was making the tire of our Caster. The tire has an inner diameter of 80 mm and an outer diametor of 110 mm. 
+
 ### Evidence
+https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d0d5177b4e5b4fdd/e/e616b3dc6772a9b41ea6740c
+
 ### Image
 <img src="Images/Tire.png" alt="Tire" width="200" height="200">
 
 ### Reflection
+The tire was fun but it was not as enjoyable as the fork. We started by making a trapezoid and then revolved it around a point to create or curcular tire. I think we could have just made rectangle instead of the trapezoid and then just use chamfers to slope the sides after we revolved the shape. I do think it was really cool to learn how to revolve a shape and now I want to try to make a sphere.  
+
 ## Wheel
 ### Description
 ### Evidence
