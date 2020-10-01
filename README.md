@@ -1,15 +1,58 @@
-# Basiccad CHS 2020-2021
-## Description
-My first basic cad assignment was making a castor. This was the first time I had ever done anything with CAD, so it was all new to me. 
-### Base and Mount
-#### Image
-![BaseMount_castor_CHS](Images/BaseMount_castor_CHS.png)
-#### Reflection
-The base and the mount were really not that intresting because they are basicly the exact same piece. I do feel like I am getting a good grasp of how linear patterns work.
-### Fork
-#### Image
-![Fork_Castor_CHS](Images/Fork_Castor_CHS.png)
-#### Reflection
-I really enjoyed this part, even more then the mount. It was more complicated and we got to learn some new tools. I completed it in a resonable amount of time.
+####BasicCAD
+We are creating a caster.
+
+Table of Contents
+Table of Contents
+Base
+Mount
+Fork
+Tire
+Wheel
+AxleCollarBearings
+Base
+Description
+The first assignment is to create the caster base. The base's dimensions are 200 mm x 120 mm and 8 mm thick. It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
+
+Evidence
+The Base in Onshape
+
+Image
+The Base
+
+Reflection
+This was my first Onshape part and following along with Dr. Shields made it super easy. I learned about
+
+sketching (shortcut shift-s)
+constructions lines (shortcut Q)
+dimensions (shortcut D)
+extruding both add and remove (shortcut key E)
+linear patterns (no shortcut)
+Onshape is awesome. I found it really helpful to rename all my sketches. It is going to be a GREAT year in engineering.
+
+Mount
+Description
+Evidence
+Image
+Reflection
+Fork
+Description
+Evidence
+Image
+Reflection
+Tire
+Description
+Evidence
+Image
+Reflection
+Wheel
+Description
+Evidence
+Image
+Reflection
+AxleCollarBearings
+Description
+Evidence
+Image
+Reflection
 
 
