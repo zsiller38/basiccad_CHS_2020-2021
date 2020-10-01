@@ -1,14 +1,5 @@
 # BasicCAD
-We are creating a caster.
-
-## Table of Contents
-Table of Contents
-Base https://github.com/zsiller38/basiccad_CHS_2020-2021/blob/master/README.md
-Mount 
-Fork
-Tire
-Wheel
-AxleCollarBearings
+We are creating a caster. There are 6 parts Base, Mount, Fork, Tire, Wheel, and AxleCollerBearing
 
 ## Base
 
@@ -29,10 +20,12 @@ At first Onshape was pretty hard for me. I just could'nt understand how linear p
 Our second Onshape assignment (the mount) was a countinuation of the first. The mount looks exactly like the base but a bit smaller and with 5 holes instead of 7.
 ### Evidence
 https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d0d5177b4e5b4fdd/e/b25488f87ba4cc5898da9707
+
 ### Image
 
 ### Reflection
 The mount was really good for me because it was not that complicated and allowed me to work on the skills I learned with the base. I learned how to create linear patterns on a sketch not just and extrude. At this point I feel like I have mastered the first steps and ready to move on.
+
 ## Fork
 
 ### Description
