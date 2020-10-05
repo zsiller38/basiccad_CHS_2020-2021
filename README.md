@@ -15,6 +15,8 @@ https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d
 ### Reflection
 At first Onshape was pretty hard for me. I just could'nt understand how linear patterns worked. I finaly figured it out with some help. Onshape is so cool, you can do so much stuff.
 
+---
+
 ## Mount
 
 ### Description
@@ -27,6 +29,8 @@ https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d
 
 ### Reflection
 The mount was really good for me because it was not that complicated and allowed me to work on the skills I learned with the base. I learned how to create linear patterns on a sketch not just and extrude. At this point I feel like I have mastered the first steps and ready to move on.
+
+---
 
 ## Fork
 
@@ -42,6 +46,8 @@ https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d
 ### Reflection
 The fork was the most interesting part so far. It was much more complicated than our first two parts, but I feel like I have really improved my speed at which I use Onshape. The videos Doctor Shields makes are really easy to follow and make understanding Onshape not two difficult. A few skills I learned were how to use filets chamfers and mirrors. Filets are my favorite they greatly increase the number of cool shapes you can make.
 
+---
+
 ## Tire
 
 ### Description 
@@ -56,11 +62,16 @@ https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d
 ### Reflection
 The tire was fun but it was not as enjoyable as the fork. We started by making a trapezoid and then revolved it around a point to create or curcular tire. I think we could have just made rectangle instead of the trapezoid and then just use chamfers to slope the sides after we revolved the shape. I do think it was really cool to learn how to revolve a shape and now I want to try to make a sphere.  
 
+---
+
 ## Wheel
 ### Description
 ### Evidence
 ### Image
 ### Reflection
+
+---
+
 ## AxleCollarBearings
 ### Description
 ### Evidence
