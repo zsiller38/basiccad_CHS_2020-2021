@@ -77,10 +77,12 @@ The tire was fun but it was not as enjoyable as the fork. We started by making a
 ## AxleCollarBearings
 ### Description
 ### Evidence
+https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d0d5177b4e5b4fdd/e/e77a2a5a9cbfb9877df0f923
 ### Image
 <img src="Images/Axel.png" alt="Axel" width="200" height="200">
 <img src="Images/Collar.png" alt="Collar" width="200" height="200">
 <img src="Images/Bearing.png" alt="Bearing" width="200" height="200">
+<img src="Images/Big Bearing.png" alt="Big Bearing" width="200" height="200">
 
 ### Reflection
 
