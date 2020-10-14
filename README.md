@@ -68,6 +68,8 @@ The tire was fun but it was not as enjoyable as the fork. We started by making a
 ### Description
 ### Evidence
 ### Image
+<img src="Images/Wheel.png" alt="Wheel" width="200" height="200">
+
 ### Reflection
 
 ---
@@ -76,6 +78,10 @@ The tire was fun but it was not as enjoyable as the fork. We started by making a
 ### Description
 ### Evidence
 ### Image
+<img src="Images/Axel.png" alt="Axel" width="200" height="200">
+<img src="Images/Collar.png" alt="Collar" width="200" height="200">
+<img src="Images/Bearing.png" alt="Bearing" width="200" height="200">
+
 ### Reflection
 
 
