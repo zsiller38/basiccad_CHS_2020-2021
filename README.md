@@ -38,7 +38,7 @@ The mount was really good for me because it was not that complicated and allowed
 The fork is a more complicated piece that connects the wheel to the base and the mount. It is a circle with two teeth sticking out one end to hold the wheel in place and a pipe sticking out the other to connect to the base and mount.
 
 ### Evidence
-https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d0d5177b4e5b4fdd/e/900e12c49117069e34818e49
+[Fork](https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d0d5177b4e5b4fdd/e/900e12c49117069e34818e49)
 
 ### Image
 <img src="Images/Fork.png" alt="Fork" width="200" height="200">
@@ -54,7 +54,7 @@ The fork was the most interesting part so far. It was much more complicated than
 Our next onshape assingnment was making the tire of our Caster. The tire has an inner diameter of 80 mm and an outer diametor of 110 mm. 
 
 ### Evidence
-https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d0d5177b4e5b4fdd/e/e616b3dc6772a9b41ea6740c
+[Tire](https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d0d5177b4e5b4fdd/e/e616b3dc6772a9b41ea6740c)
 
 ### Image
 <img src="Images/Tire.png" alt="Tire" width="200" height="200">
@@ -67,6 +67,8 @@ The tire was fun but it was not as enjoyable as the fork. We started by making a
 ## Wheel
 ### Description
 ### Evidence
+[Wheel](https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d0d5177b4e5b4fdd/e/e77a2a5a9cbfb9877df0f923)
+
 ### Image
 <img src="Images/Wheel.png" alt="Wheel" width="200" height="200">
 
@@ -77,7 +79,10 @@ The tire was fun but it was not as enjoyable as the fork. We started by making a
 ## AxleCollarBearings
 ### Description
 ### Evidence
-https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d0d5177b4e5b4fdd/e/e77a2a5a9cbfb9877df0f923
+[Axel and Collar](https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d0d5177b4e5b4fdd/e/e77a2a5a9cbfb9877df0f923)
+[Bearing](https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d0d5177b4e5b4fdd/e/e616b3dc6772a9b41ea6740c)
+[Big Bearing](https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d0d5177b4e5b4fdd/e/5dc14780f0d9d4fb5d0485b6)
+
 ### Image
 <img src="Images/Axel.png" alt="Axel" width="200" height="200">
 <img src="Images/Collar.png" alt="Collar" width="200" height="200">
