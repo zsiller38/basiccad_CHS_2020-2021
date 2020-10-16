@@ -65,7 +65,10 @@ The tire was fun but it was not as enjoyable as the fork. We started by making a
 ---
 
 ## Wheel
+
 ### Description
+The next part we created was a wheel. It had 5 spokes and used chamfers and filets to make them rounded. We use the revolve ability to create a kind of cylindrical shape for the wheel.
+
 ### Evidence
 [Wheel](https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d0d5177b4e5b4fdd/e/e77a2a5a9cbfb9877df0f923)
 
@@ -73,6 +76,7 @@ The tire was fun but it was not as enjoyable as the fork. We started by making a
 <img src="Images/Wheel.png" alt="Wheel" width="200" height="200">
 
 ### Reflection
+The wheel was by far the most complicated part so far. There were so many little parts to create. I really strungled at first when trying to create the I that we would later revolve. I did figure it out and the Wheel looks really cool.
 
 ---
 
