@@ -77,7 +77,10 @@ The tire was fun but it was not as enjoyable as the fork. We started by making a
 ---
 
 ## AxleCollarBearings
+
 ### Description
+For this assighnment there were multiple parts we had to create, a Axel, Collar, and Bearing. the axel was basiclly a long tube with two flat motches cut into it of each side. the collar was a shorter tube tht ould fit around the axel. It had a small hole in it, in which a pin could be inserted. The final part was the bearing and there were to different types, a big one and a small one. The were very simaller, two short cylinders both with a whole cut out of the base.
+
 ### Evidence
 [Axel and Collar](https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d0d5177b4e5b4fdd/e/e77a2a5a9cbfb9877df0f923)
 
@@ -92,5 +95,6 @@ The tire was fun but it was not as enjoyable as the fork. We started by making a
 <img src="Images/Big Bearing.png" alt="Big Bearing" width="200" height="200">
 
 ### Reflection
+After using Onshape for many weeks these parts were a breeze to make. Although sometimes it was anoying to make sure you selected the right part when creating them. I did not learn new things Onshape could do after creating the parts, just mastering what I already knew. I am super exited to create the final Caster assembly.
 
 
