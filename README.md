@@ -1,5 +1,17 @@
 # BasicCAD
-We are creating a caster. There are 6 parts Base, Mount, Fork, Tire, Wheel, and AxleCollerBearing
+Our first project in engineering 1 was creating a castor. There where 6 parts; base, mount, fork, tire, wheel, and axelcollarbearing, as well as the final caster assembelie
+
+## Final Caster Assembelie
+
+### Description
+
+### Evidence
+
+### Image
+
+### Reflection
+
+---
 
 ## Base
 
