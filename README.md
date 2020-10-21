@@ -1,11 +1,12 @@
 # BasicCAD
-Our first project in engineering 1 was creating a castor. There where 6 parts; base, mount, fork, tire, wheel, and axelcollarbearing, as well as the final caster assembelie
+Our first project in engineering 1 was creating a castor. There where 6 parts; base, mount, fork, tire, wheel, and axelcollarbearing, as well as the final caster assembly.
 
-## Final Caster Assembelie
+## Final Caster Assembly
 
 ### Description
 
 ### Evidence
+[Final Caster Assembly](https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d0d5177b4e5b4fdd/e/711b36f80449869137b2ff15)
 
 ### Image
 
