@@ -4,6 +4,7 @@ Our first project in engineering 1 was creating a castor. There where 6 parts; b
 ## Final Caster Assembly
 
 ### Description
+In the final caster assembly we use revolute mates fasten mates and parallel mates. We first had to create a sub assembly with the Tire Wheel Axel and Collar. We then added the other parts to create our finished caster.
 
 ### Evidence
 [Final Caster Assembly](https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d0d5177b4e5b4fdd/e/711b36f80449869137b2ff15)
@@ -12,6 +13,7 @@ Our first project in engineering 1 was creating a castor. There where 6 parts; b
 <img src="Images/Final Caster Assembly.png" alt="Final Caster Assembly" width="200" height="200">
 
 ### Reflection
+The final step of mating all of the part together was very trickey. After watching the video multiple times I did manage to put them all together. I did forget to put the pins holding the collar and axel together. I like assemblies, there complicated at first but then they get much easier to do.
 
 ---
 
