@@ -9,6 +9,7 @@ Our first project in engineering 1 was creating a castor. There where 6 parts; b
 [Final Caster Assembly](https://cvilleschools.onshape.com/documents/bd9b5060c8ba772630bb5657/w/65ff90f9d0d5177b4e5b4fdd/e/711b36f80449869137b2ff15)
 
 ### Image
+<img src="Images/Final Caster Assembly.png" alt="Final Caster Assembly" width="200" height="200">
 
 ### Reflection
 
